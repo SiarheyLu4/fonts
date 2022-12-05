@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fonts/static/js/main.264b74f1.js",
+    "index.html": "/fonts/index.html",
+    "main.264b74f1.js.map": "/fonts/static/js/main.264b74f1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.264b74f1.js"
+  ]
+}
